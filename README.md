@@ -1,5 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+I am Valery Kozyr, developer from Belarus, Israel, live in Moscow.
+
 [![Instagram Badge](https://img.shields.io/badge/-tvoydrugvalera-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tvoydrugvalera/)](https://instagram.com/tvoydrugvalera)
 
 
