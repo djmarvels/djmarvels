@@ -1,4 +1,5 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djmarvels&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
 - ⚡ I'm interested in IT and everything in its orbit.
 - 💻 I'm currently working at Yelm Media as a junior frontend developer.
