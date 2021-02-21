@@ -1,7 +1,14 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djmarvels&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
-[![Instagram Badge](https://img.shields.io/badge/-tvoydrugvalera-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tvoydrugvalera/)](https://instagram.com/tvoydrugvalera)
+### Connect with me:
+
+[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
 
 - ⚡ I'm interested in IT and everything in its orbit.
 - 💻 I'm currently working at Yelm Media as a junior frontend developer.
