@@ -11,7 +11,7 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=djmarvels&count_private=true&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=djmarvels&count_private=true&theme=vue-dark&show_icons=true)
 
 ### Languages and Tools:
 
