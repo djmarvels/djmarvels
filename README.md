@@ -9,6 +9,8 @@
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
+<br />
+
 
 - ⚡ I'm interested in IT and everything in its orbit.
 - 💻 I'm currently working at Yelm Media as a junior frontend developer.
