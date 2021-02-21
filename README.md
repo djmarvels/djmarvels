@@ -7,7 +7,7 @@
 
 ### 
 
-![](https://github-readme-stats.vercel.app/api?username=djmarvels&count_private=true&hide=contribs,stars&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=djmarvels&count_private=true&hide=contribs,stars&theme=vue-dark&show_icons=true)
 
 ###
 
