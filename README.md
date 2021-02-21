@@ -1,4 +1,4 @@
-### Hi there 👋
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 - ⚡ I'm interested in IT and everything in its orbit.
 - 💻 I'm currently working at Yelm Media as a junior frontend developer.
