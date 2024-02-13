@@ -1,6 +1,14 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Valery Kozyr, developer from Belarus, Israel, live in Moscow.
+Hi 👋
+I'm a front-end developer.
+
+I have experience in development from 2013 to the present day.
+At the moment, I'm working on ![Nikolay Ironov](https://ironov.ai/), an artificial intelligence designer.
+
+
+• I develop unique algorithms for different projects;
+• Use all opportunities in programming languages to realize the impossibility.
 
 [![Instagram Badge](https://img.shields.io/badge/-tvoydrugvalera-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tvoydrugvalera/)](https://instagram.com/tvoydrugvalera)
 
