@@ -4,7 +4,7 @@ Hi 👋
 I'm a front-end developer.
 
 I have experience in development from 2013 to the present day.
-At the moment, I'm working on ![Nikolay Ironov](https://ironov.ai/), an artificial intelligence designer.
+At the moment, I'm working on [Nikolay Ironov](https://ironov.ai/), an artificial intelligence designer.
 
 
 • I develop unique algorithms for different projects;
